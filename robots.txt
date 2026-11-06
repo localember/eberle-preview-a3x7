@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://localember.github.io/eberle-preview-a3x7/sitemap.xml
